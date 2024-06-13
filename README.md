@@ -46,4 +46,4 @@ help - Gᴇᴛ Help
 <b>Licensed under [GNU AGPL 2.0.](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 
-###### ©️ Cᴏᴩʏʀɪɢʜᴛ: Copyright (C) 2023-present M 1 STUDIO
+###### DEMO BOT -> @M1Telegraph_Bot
