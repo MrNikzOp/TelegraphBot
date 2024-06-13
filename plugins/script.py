@@ -14,7 +14,8 @@ file size limit is 5Mb.
   """
   BOTCHANNEL_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🎉 Bot Channel', url='https://t.me/+968jk8GzycIxYTY1'),
+        InlineKeyboardButton('🎉 Bot Channel', url='https://t.me/+968jk8GzycIxYTY1')
+        ],[
         InlineKeyboardButton('🤖 Source', url='https://github.com/MrNikzOp/TelegraphBot')  
         ]]
   )
